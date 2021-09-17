@@ -12,6 +12,8 @@ User Functionality/Features...
 → API for Local Weather Updates
 
 //================================================================
+
+
 AS A...
 Person in Charlotte, NC, Interested in exploring the craft brewery scene.
 
